@@ -1,0 +1,2 @@
+Folder ini bisa berisi class class yang akan di buar
+kalau dalam php seperti codre bisa menympan MY_MODEL/MY_CONTROLLER
