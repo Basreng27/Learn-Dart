@@ -1,2 +1,0 @@
--> untuk menjalankan dart 
-dart <nama_file>
